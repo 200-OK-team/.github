@@ -9,6 +9,7 @@
 
 **Веб-сайт:** [cryptorub.ru](https://cryptorub.ru)
 
+![Скриншот приложения](http://d.zaix.ru/JNbt.png)
 
 <!--
 
