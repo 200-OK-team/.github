@@ -9,7 +9,7 @@
 
 **Веб-сайт:** [cryptorub.ru](https://cryptorub.ru)
 
-**API документация:** [Crypto RUB API](https://cryp-to-rub.ru/docs/#/)
+**API документация:** [swagger API](https://cryp-to-rub.ru/docs/#/)
 
 ![Скриншот приложения](http://d.zaix.ru/JNbt.png)
 
