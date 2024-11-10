@@ -1,4 +1,4 @@
-# Хакатон: VTB API Hackathon 2024
+# VTB API Hackathon 2024
 
 **Трек:** Open API  
 **Команда:** 200 OK
